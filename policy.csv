@@ -1,0 +1,12 @@
+spdx,category
+MIT,permissive
+Zlib,permissive
+Apache-2.0,permissive
+BSD-3-Clause,permissive
+ISC,permissive
+LGPL-2.1-only,weak-copyleft
+MPL-2.0,weak-copyleft
+EPL-2.0,weak-copyleft
+GPL-3.0-only,strong-copyleft
+GPL-2.0-only,strong-copyleft
+AGPL-3.0-only,strong-copyleft
